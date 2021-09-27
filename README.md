@@ -1,5 +1,7 @@
 # Demo webpage for Software Service Provider
 
+This website is made for 375px width and 1366px width screen sizes.
+
 ## Table of contents
 
   - [Screenshot](#screenshot)
