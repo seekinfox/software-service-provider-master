@@ -95,6 +95,9 @@ nav {
 }
 
 .navbar a.icon {
+    height: 2rem;
+    box-shadow: 0px 0px 10px black, 0px 0px 5px white inset;
+    border: 1px solid white;
     display: block;
     color: white;
 
